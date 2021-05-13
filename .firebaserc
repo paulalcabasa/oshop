@@ -1,0 +1,21 @@
+{
+  "targets": {
+    "fir-demo-b9e8c": {
+      "hosting": {
+        "oshop": [
+          "fir-demo-b9e8c"
+        ]
+      }
+    },
+    "oshop-ed192": {
+      "hosting": {
+        "oshop": [
+          "oshop-ed192"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "oshop-ed192"
+  }
+}
